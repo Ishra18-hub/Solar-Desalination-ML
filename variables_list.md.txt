@@ -1,0 +1,32 @@
+# Solar Desalination - Variable List
+
+## Input Variables (Features / X)
+
+| Variable | Unit | Description | Source |
+|----------|------|-------------|--------|
+| Temperature | K | Inlet water temperature after solar heating | Table 5.21 |
+| Air Flow Rate | m/s | Air velocity in evaporation chamber | Table 5.22 |
+| Solar Irradiance | W/m² | Solar radiation intensity | Table 5.24 |
+| Ambient Temperature | K | Outside air temperature | Table 5.25 |
+| Droplet Size | μm | Spray nozzle droplet diameter | Table 5.23 |
+| Operating Time | min | System runtime | Table 5.9 |
+
+## Output Variables (Target / y)
+
+| Variable | Unit | Description | Source |
+|----------|------|-------------|--------|
+| Freshwater Yield | L/day | Volume of freshwater produced | Table 5.21 |
+| Evaporation Rate | relative | Relative evaporation rate | Table 5.21 |
+| Thermal Efficiency | % | System efficiency | Table 5.12 |
+
+## Performance Variables
+
+| Variable | Unit | Description |
+|----------|------|-------------|
+| Condensation Efficiency | % | Vapor condensation rate |
+| Heat Loss | % | Heat lost to environment |
+| Recovery Ratio | % | Freshwater / Feedwater ratio |
+
+## Notes
+- Only variables with actual data will be used for ML models.
+- Target variable for prediction: Freshwater Yield (L/day or relative)
