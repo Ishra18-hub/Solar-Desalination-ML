@@ -5,7 +5,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - [x] python basics
 - [x] Functions (def, return, docstring, default args)
 - [x] Higher-order functions & key arguments
-- [ ] 
+- [x] Booleans and Conditionals
 
 
 # Daily Progress log
@@ -18,6 +18,13 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - Learned Python functions: def, return, docstring, None, default arguments
 - Learned higher-order functions and key arguments
 - Created variable list for the project (docs/variables_list.md)
+  
+## 12 September 2026
+- Booleans has two possible values TRUE & FALSE
+- Learned Comparison Operations ==, <, >, <=, >=, !=
+- how to combine boolean values
+- how to use Conditional Statements if-elif-else
+- boolean conversion
 
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
