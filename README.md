@@ -23,8 +23,15 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - Booleans has two possible values TRUE & FALSE
 - Learned Comparison Operations ==, <, >, <=, >=, !=
 - how to combine boolean values
-- how to use Conditional Statements if-elif-else
+- how to use Conditional Statements if-elif-els
 - boolean conversion
+
+  ## 13 September 2026
+- Learned about lists, must use second brackets
+- Learned about Indexing how it used for a specific list element, zero-based indexing 
+- how to do slicing
+- Learned about a list can be changed and modified (changing lists) 
+- List functions. ex: len gives the length of a list, sorted returns a sorted version of a list, sum does what you might expec, min & max to get the minimum or maximum of several arguments.
 
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
