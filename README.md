@@ -46,6 +46,9 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - Learned about a list can be changed and modified (changing lists) 
 - List functions. ex: len gives the length of a list, sorted returns a sorted version of a list, sum does what you might expect, min & max to get the minimum or maximum of several arguments.
 - "Interlude: objects" everything in python (Type, variable, method) are object and with '.' attribute/method can be access. Exm: "solar".upper()` → `"SOLAR", .imag & .real attributes for complex number, int attribute: `.numerator`, `.denominator`
+- Learned Tuples: Immutable (unchangeable) list, uses first bracket `(1, 2, 3)`, fast and secured than List, Unpacking: `a, b, c = (1, 2, 3)`, works as Dictionary key
+
+## 14 September 2026
 - 
 
 # Future Work
