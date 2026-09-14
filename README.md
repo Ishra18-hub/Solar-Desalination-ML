@@ -30,6 +30,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 ## 13 September 2026
 - Learned about lists, must use second brackets
   List Methods
+
 | Method | work |
 |--------|------|
 | `.append(x)` | adds in last |
@@ -40,6 +41,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 | `.reverse()` | reversing |
 | `.index(x)` | finds the place of value |
 | `.count(x)` | how many times are in the list |
+
 - Learned about Indexing how it used for a specific list element, zero-based indexing 
 - how to do slicing
 - Learned about a list can be changed and modified (changing lists) 
