@@ -6,7 +6,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - [x] Functions (def, return, docstring, default args)
 - [x] Higher-order functions & key arguments
 - [x] Booleans and Conditionals
-- [x] Lists
+- [x] Lists & tuple 
 
 
 # Daily Progress log
