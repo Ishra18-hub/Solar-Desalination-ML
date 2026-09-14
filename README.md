@@ -29,10 +29,23 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 
 ## 13 September 2026
 - Learned about lists, must use second brackets
+  List Methods
+| Method | work |
+|--------|------|
+| `.append(x)` | adds in last |
+| `.pop()` | removes the last one |
+| `.remove(x)` | removes the specific value |
+| `.insert(i, x)` | adds in specific place |
+| `.sort()` | sorting |
+| `.reverse()` | reversing |
+| `.index(x)` | finds the place of value |
+| `.count(x)` | how many times are in the list |
 - Learned about Indexing how it used for a specific list element, zero-based indexing 
 - how to do slicing
 - Learned about a list can be changed and modified (changing lists) 
 - List functions. ex: len gives the length of a list, sorted returns a sorted version of a list, sum does what you might expect, min & max to get the minimum or maximum of several arguments.
+- "Interlude: objects" everything in python (Type, variable, method) are object and with '.' attribute/method can be access. Exm: "solar".upper()` → `"SOLAR", .imag & .real attributes for complex number, int attribute: `.numerator`, `.denominator`
+- 
 
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
