@@ -29,7 +29,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 
 ## 13 September 2026
 - Learned about lists, must use second brackets
-LIST METHOD
+  
 | Method | work |
 |--------|------|
 | `.append(x)` | adds in last |
