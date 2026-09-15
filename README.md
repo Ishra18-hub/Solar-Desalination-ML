@@ -6,7 +6,8 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - [x] Functions (def, return, docstring, default args)
 - [x] Higher-order functions & key arguments
 - [x] Booleans and Conditionals
-- [x] Lists & tuple 
+- [x] Lists & tuple
+- [x] CSV file with FYDP datasets
 
 
 # Daily Progress log
@@ -53,7 +54,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 ## 15 September 2026
 - I created the csv file for my first project
 - The file contains My FYDP datasets
-- I took help from Google, different sites and AI to understand making pandas data frame and how to make a csv file
+- I took help from Google, different sites and AI to understand making pandas data frame and how to make a csv file. Finally understand that PANDAS = PYTHON'S EXCEL
 - while justifying the csv file learned about two functions how these works df.head() and df.describe()
 
 | Sl | work |
