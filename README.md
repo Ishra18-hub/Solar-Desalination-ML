@@ -24,7 +24,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - Booleans has two possible values TRUE & FALSE
 - Learned Comparison Operations ==, <, >, <=, >=, !=
 - how to combine boolean values
-- how to use Conditional Statements if-elif-els
+- how to use Conditional Statements if-elif-else
 - boolean conversion
 
 ## 13 September 2026
@@ -49,6 +49,21 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - Learned Tuples: Immutable (unchangeable) list, uses first bracket `(1, 2, 3)`, fast and secured than List, Unpacking: `a, b, c = (1, 2, 3)`, works as Dictionary key
 
 ## 14 September 2026
+
+## 15 September 2026
+- I created the csv file for my first project
+- The file contains My FYDP datasets
+- I took help from Google, different sites and AI to understand making pandas data frame and how to make a csv file
+- | Sl | work |
+|--------|------|
+| 1 | extracted the datas from FYDP datasets |
+| `` | removes the last one |
+| `.remove(x)` | removes the specific value |
+| `.insert(i, x)` | adds in specific place |
+| `.sort()` | sorting |
+| `.reverse()` | reversing |
+| `.index(x)` | finds the place of value |
+| `.count(x)` | how many times are in the list |
 - 
 
 # Future Work
