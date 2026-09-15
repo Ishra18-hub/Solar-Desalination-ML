@@ -1,5 +1,17 @@
+
 # Solar-Desalination-ML
 Project 1: "ML project for predicting freshwater yield in solar desalination systems using Final Year Design Project data"
+
+## About My FINAL YEAR DESIGHN PROJECT
+This project is an extension of my Final Year Design Project (FYDP) titled 
+"Solar Powered Water Desalination Using Evaporation Technique."
+This project focused on designing a solar-powered desalination system that uses 
+a parabolic solar collector, spray-assisted evaporation, and fan-driven 
+condensation to produce freshwater from saline water. The system achieved 
+32.35% thermal efficiency.
+This ML project uses the experimental data from the FYDP to predict 
+freshwater yield using operating parameters (temperature, air flow, 
+solar irradiance, etc.).
 
 # September Progress
 - [x] python basics
