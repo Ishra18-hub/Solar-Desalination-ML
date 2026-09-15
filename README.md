@@ -54,17 +54,16 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - I created the csv file for my first project
 - The file contains My FYDP datasets
 - I took help from Google, different sites and AI to understand making pandas data frame and how to make a csv file
-- | Sl | work |
+- while justifying the csv file learned about two functions how these works df.head() and df.describe()
+
+| Sl | work |
 |--------|------|
 | 1 | extracted the datas from FYDP datasets |
-| `` | removes the last one |
-| `.remove(x)` | removes the specific value |
-| `.insert(i, x)` | adds in specific place |
-| `.sort()` | sorting |
-| `.reverse()` | reversing |
-| `.index(x)` | finds the place of value |
-| `.count(x)` | how many times are in the list |
-- 
+| 2 | understood the data structure |
+| 3 | learned the pandas dataframe |
+| 4 | understood the process and made the desalination csv file |
+| 5 | learned how to justify the csv file |
+| 6 | learned how to download the csv file from colab |
 
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
