@@ -7,6 +7,7 @@ Project 1: "ML project for predicting freshwater yield in solar desalination sys
 - [x] Higher-order functions & key arguments
 - [x] Booleans and Conditionals
 - [x] Lists & tuple
+- [x] For and while loops, and list comprehensions
 - [x] CSV file with FYDP datasets
 
 
