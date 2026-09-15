@@ -38,8 +38,18 @@ solar irradiance, etc.).
 - Booleans has two possible values TRUE & FALSE
 - Learned Comparison Operations ==, <, >, <=, >=, !=
 - how to combine boolean values
+
+| operator | rule |
+|--------|------|
+| AND | True + True = True |
+| OR | True + False = True |
+| NOT | not True = False |
+
 - how to use Conditional Statements if-elif-else
 - boolean conversion
+- X-OR (Exclusive OR) if one condition is right then true otherwise false
+- De Morgan's Law	not (A and B) = (not A) or (not B)
+- Weather Bug	(the importance of brackets)
 
 ## 13 September 2026
 - Learned about lists, must use second brackets
