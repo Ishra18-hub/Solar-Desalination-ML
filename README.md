@@ -101,6 +101,7 @@ solar irradiance, etc.).
 - Array Operations: NumPy Array Indexing, NumPy Array Slicing
 - Array Attributes: .shape, .ndim, .size, .dtype
 - Array Math: learned element wise operations, Statistical Operations, Dot product. Also learned matrix operation( Matrix multiplication, transpose, inverse)
+- practiced dot product exercise with FYDP efficiency calculation law for Linear Regression
   
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
