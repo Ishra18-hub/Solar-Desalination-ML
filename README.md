@@ -20,6 +20,8 @@ solar irradiance, etc.).
 - [x] Lists & tuple
 - [x] For and while loops, and list comprehensions
 - [x] CSV file with FYDP datasets
+- [x] NumPy Basics
+- [ ] NumPy Advanced
 
 
 # Daily Progress log
