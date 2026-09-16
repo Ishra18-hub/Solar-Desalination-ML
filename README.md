@@ -1,4 +1,3 @@
-
 # Solar-Desalination-ML
 Project 1: "ML project for predicting freshwater yield in solar desalination systems using Final Year Design Project data"
 
@@ -89,6 +88,19 @@ solar irradiance, etc.).
 | 5 | learned how to justify the csv file |
 | 6 | learned how to download the csv file from colab |
 
+## 16 September 2026
+
+| Resource | Link |
+|--------|------|
+| W3Schools NumPy | w3schools.com/python/numpy |
+| Kaggle Python Course | https://www.kaggle.com/learn/python |
+| NumPy Official Docs | numpy.org/doc/stable/user/absolute_beginners.html |
+| YouTube | "NumPy Tutorial for Beginners" |
+
+- NumPy Introduction: what is NumPy, NumPy Install, Creating Array's, Verifying dimensions
+- Array Operations: NumPy Array Indexing, NumPy Array Slicing
+- Array Attributes
+  
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
 - November: Project 2 (PV Forecasting)
