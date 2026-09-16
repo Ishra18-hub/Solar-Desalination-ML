@@ -99,7 +99,8 @@ solar irradiance, etc.).
 
 - NumPy Introduction: what is NumPy, NumPy Install, Creating Array's, Verifying dimensions
 - Array Operations: NumPy Array Indexing, NumPy Array Slicing
-- Array Attributes
+- Array Attributes: .shape, .ndim, .size, .dtype
+- Array Math: learned element wise operations, Statistical Operations, Dot product. Also learned matrix operation( Matrix multiplication, transpose, inverse)
   
 # Future Work
 - October: Machine Learning Models (Linear Regression, Random Forest, XGBoost)
