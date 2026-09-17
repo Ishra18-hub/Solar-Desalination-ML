@@ -5,9 +5,9 @@
 **Environment:** Google Colab
 **Goal:** Build a strong ML portfolio for Master's applications
 
+---
 Daily progress notes for my Python + ML learning journey.
 
----
 # September Progress
 - [x] python basics
 - [x] Functions (def, return, docstring, default args)
