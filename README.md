@@ -97,9 +97,10 @@ Solar-Desalination-ML/
 - [x] Boolean logic, comparison operators
 - [x] Lists, tuples, and their methods
 - [x] Extracted FYDP simulation data → `desalination_data.csv`
-- [x] Pandas basics (`df.head()`, `df.describe()`)
+- [x] Pandas basics (`.head()`, `.info()`, `.describe()`), missing values, correlation, column names
 - [x] NumPy basics (arrays, indexing, slicing, math)
-- [ ] NumPy advanced (broadcasting, random, linear algebra)
+- [x] NumPy advanced (broadcasting, random, linear algebra)
+- [x] Pandas basics: CSV file upload, basic info, missing values, correlation, column names
 
 ### Upcoming Machine Learning till OCTOBER 2026 (Planned)
 - [ ] Exploratory Data Analysis (EDA)
