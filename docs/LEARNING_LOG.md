@@ -102,6 +102,17 @@ Daily progress notes for my Python + ML learning journey.
 - Realized my FYDP data is from **CFD simulations**, not physical experiments
 - Decided to separate `README.md` (project) from `learning_log.md` (personal journey)
 
+**Topic:** NumPy Advanced, Pandas Basics
+- Learned NumPy broadcasting: how arrays of different shapes work together
+- Learned `np.random` for generating random numbers (`np.random.rand()`, `np.random.seed()`, `np.random.randint()`)
+- Learned `np.linalg` for linear algebra (`inv()`, `det()`, `eig()`)
+- Learned Boolean masking: `arr[arr > 5]`
+- Learned `np.where()` for conditional selection
+- Created notebook: `06_numpy_advanced.ipynb`
+- Learned Pandas basics on my desalination dataset
+- Practiced `df.shape`, `df.info()`, `df.describe()`, `df.isnull().sum()`, `df.corr()`, `df.columns.tolist()`, `df.nunique()`
+- Created notebook: `07_pandas_basics.ipynb`
+
 **Important lesson:** Always be truthful about data sources.
 
 ## Next Steps
