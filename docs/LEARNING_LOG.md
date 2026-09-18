@@ -17,7 +17,9 @@ Daily progress notes for my Python + ML learning journey.
 - [x] For and while loops, and list comprehensions
 - [x] CSV file with FYDP datasets
 - [x] NumPy Basics
-- [ ] NumPy Advanced
+- [x] NumPy Advanced
+- [x] Pandas GroupBy and EDA Start
+- [ ] 
 
 ## 9 September 2026
 - Set up project folder and GitHub repository
@@ -115,26 +117,31 @@ Daily progress notes for my Python + ML learning journey.
 
 **Important lesson:** Always be truthful about data sources.
 
-## 18 September 2026 
+## 18 September 2026 (Thursday)
 **Topic:** Pandas GroupBy and EDA Start
 - Learned `groupby()` concept: grouping rows by a column value
 - Learned `.agg()` for multiple statistics (mean, std, min, max, count)
 - Learned `pd.cut()` for binning continuous values into categories
-- Created practice notebook with 30 rows of artificial data: `08_pandas_groupby.ipynb`
-- Learned why GroupBy fails on 5-row dataset (std NaN for single-value groups)
+- Created notebook: `08_pandas_groupby.ipynb`
+- Practiced GroupBy on real data (5 rows) — understood limitation
+- Generated 30 rows artificial data for GroupBy practice
+- Added markdown notes about artificial data limitations
 - Started EDA on real desalination dataset
 - Loaded and explored data with Pandas
 - Checked: shape, dtypes, missing values, summary statistics
-- Created correlation matrix to find most important features
-- Visualized Temperature vs Yield (positive linear relationship observed)
+- Created correlation matrix — noticed suspicious 0.99+ values
+- **Added markdown notes about statistical limitations of small dataset**
+- **Added markdown notes about correlation interpretation**
+- Visualized Temperature vs Yield (positive relationship observed)
+- **Added markdown notes about visualization caveats**
 - Created notebook: `09_eda_start.ipynb`
+- Learned importance of honest documentation in notebooks
 
 **Findings from EDA:**
 - Dataset has 5 rows and 9 columns
 - No missing values
-- Strong positive correlation between Temperature and Freshwater Yield
-- Solar Irradiance also strongly correlated
-- Droplet Size negatively correlated with yield
+- Apparent strong correlations (but unreliable due to small sample)
+- Temperature and Yield show positive relationship
 
 ## Next Steps
 - [ ] NumPy Advanced (broadcasting, axis operations)
