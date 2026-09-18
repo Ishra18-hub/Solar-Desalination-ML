@@ -135,7 +135,7 @@ Solar-Desalination-ML/
 
 ## References
 
-- FYDP Report: *"Solar Powered Water Desalination Using Evaporation Technique"*, Independent University, Bangladesh, 2026.
+- FYDP Report: *"Design and Simulation of Solar Powered Water Desalination Using Evaporation Technique"*, Independent University, Bangladesh, 2026.
 - Supervisor: Dr. Khosru Mohammad Salim, Department of EEE, IUB.
 
 ---
