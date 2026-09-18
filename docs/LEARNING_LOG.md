@@ -115,6 +115,27 @@ Daily progress notes for my Python + ML learning journey.
 
 **Important lesson:** Always be truthful about data sources.
 
+## 18 September 2026 
+**Topic:** Pandas GroupBy and EDA Start
+- Learned `groupby()` concept: grouping rows by a column value
+- Learned `.agg()` for multiple statistics (mean, std, min, max, count)
+- Learned `pd.cut()` for binning continuous values into categories
+- Created practice notebook with 30 rows of artificial data: `08_pandas_groupby.ipynb`
+- Learned why GroupBy fails on 5-row dataset (std NaN for single-value groups)
+- Started EDA on real desalination dataset
+- Loaded and explored data with Pandas
+- Checked: shape, dtypes, missing values, summary statistics
+- Created correlation matrix to find most important features
+- Visualized Temperature vs Yield (positive linear relationship observed)
+- Created notebook: `09_eda_start.ipynb`
+
+**Findings from EDA:**
+- Dataset has 5 rows and 9 columns
+- No missing values
+- Strong positive correlation between Temperature and Freshwater Yield
+- Solar Irradiance also strongly correlated
+- Droplet Size negatively correlated with yield
+
 ## Next Steps
 - [ ] NumPy Advanced (broadcasting, axis operations)
 - [ ] Pandas deep dive (groupby, merge, filtering)
