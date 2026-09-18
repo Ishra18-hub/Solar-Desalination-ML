@@ -101,9 +101,10 @@ Solar-Desalination-ML/
 - [x] NumPy basics (arrays, indexing, slicing, math)
 - [x] NumPy advanced (broadcasting, random, linear algebra)
 - [x] Pandas basics: CSV file upload, basic info, missing values, correlation, column names
+- [x] Pandas groupby & EDA
 
-### Upcoming Machine Learning till OCTOBER 2026 (Planned)
-- [ ] Exploratory Data Analysis (EDA)
+### Upcoming Machine Learning till 6th OCTOBER 2026 (Planned)
+- [x] Exploratory Data Analysis (EDA)
 - [ ] Linear Regression
 - [ ] Random Forest Regressor
 - [ ] XGBoost Regressor
