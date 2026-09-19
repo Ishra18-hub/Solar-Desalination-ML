@@ -153,9 +153,24 @@ Daily progress notes for my Python + ML learning journey.
 - Added note that Efficiency_Score is a derived metric for demonstration only
 - Understood difference between FYDP thermal efficiency (32.35%) and derived metrics
 
+**Topic:** Pandas Filtering
+- Learned 8 filtering techniques:
+  1. Boolean indexing: `df[df['Temperature_K'] > 350]`
+  2. AND condition: `(df['col1'] > x) & (df['col2'] > y)`
+  3. OR condition: `(df['col1'] > x) | (df['col2'] > y)`
+  4. `.loc` — label-based filtering
+  5. `.iloc` — position-based filtering
+  6. `.query()` — string-based filtering
+  7. `.isin()` — list-based filtering
+  8. `.between()` — range-based filtering
+- Created notebook: `11_pandas_filtering.ipynb`
+- Learned that filtering can return empty results — this is valid
+- Added note explaining empty result
+- Saved filtered data: `high_temp_data.csv` (2 rows: 354 K, 365 K)
+
 ## Next Steps
-- [ ] NumPy Advanced (broadcasting, axis operations)
-- [ ] Pandas deep dive (groupby, merge, filtering)
+- [x] NumPy Advanced (broadcasting, axis operations)
+- [x] Pandas deep dive (groupby, merge, filtering)
 - [ ] Matplotlib/Seaborn for visualization
 - [ ] Scikit-learn: Linear Regression
 - [ ] Scikit-learn: Random Forest
