@@ -117,7 +117,7 @@ Daily progress notes for my Python + ML learning journey.
 
 **Important lesson:** Always be truthful about data sources.
 
-## 18 September 2026 (Thursday)
+## 18 September 2026
 **Topic:** Pandas GroupBy and EDA Start
 - Learned `groupby()` concept: grouping rows by a column value
 - Learned `.agg()` for multiple statistics (mean, std, min, max, count)
@@ -142,6 +142,16 @@ Daily progress notes for my Python + ML learning journey.
 - No missing values
 - Apparent strong correlations (but unreliable due to small sample)
 - Temperature and Yield show positive relationship
+
+ ## 19 September 2026 (Friday)
+**Topic:** Pandas Merge and Apply
+- Learned `pd.merge()` with FYDP data (split into inputs and outputs, then merged)
+- Learned `apply()` function with custom function (temperature categorization)
+- Learned `apply()` with lambda (efficiency score calculation)
+- Created notebook: `10_pandas_merge.ipynb`
+- Saved merged data: `fydp_merged_data.csv`
+- Added note that Efficiency_Score is a derived metric for demonstration only
+- Understood difference between FYDP thermal efficiency (32.35%) and derived metrics
 
 ## Next Steps
 - [ ] NumPy Advanced (broadcasting, axis operations)
