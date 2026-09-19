@@ -125,6 +125,12 @@ Solar-Desalination-ML/
 
 ---
 
+## Data Files
+- `data/desalination_data.csv` — Original FYDP CFD simulation data (5 rows, 9 columns)
+- `data/fydp_merged_data.csv` — Merged version for Pandas practice (10 columns, includes Sample_ID)
+
+---
+
 ## Future Work
 
 - **October 2026**: Train and evaluate ML models
