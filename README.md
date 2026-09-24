@@ -1,4 +1,4 @@
-# Solar-Desalination-ML
+## Solar-Desalination-ML
 
 **Predicting freshwater yield in solar-powered desalination systems using Machine Learning**
 
