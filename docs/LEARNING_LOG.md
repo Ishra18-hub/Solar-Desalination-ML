@@ -143,7 +143,7 @@ Daily progress notes for my Python + ML learning journey.
 - Apparent strong correlations (but unreliable due to small sample)
 - Temperature and Yield show positive relationship
 
- ## 19 September 2026 (Friday)
+ ## 19 September 2026
 **Topic:** Pandas Merge and Apply
 - Learned `pd.merge()` with FYDP data (split into inputs and outputs, then merged)
 - Learned `apply()` function with custom function (temperature categorization)
@@ -167,6 +167,22 @@ Daily progress notes for my Python + ML learning journey.
 - Learned that filtering can return empty results — this is valid
 - Added note explaining empty result
 - Saved filtered data: `high_temp_data.csv` (2 rows: 354 K, 365 K)
+
+## 25 September 2026 
+**Topic:** Matplotlib Basics
+- Learned 5 types of plots:
+  1. **Line plot**: Temperature vs Yield
+  2. **Scatter plot**: Solar Irradiance vs Yield
+  3. **Bar chart**: Droplet Size vs Yield
+  4. **Histogram**: Distribution of Yield
+  5. **Subplots**: 4-in-1 visualization
+- Learned plot customization (colors, markers, linewidth, labels)
+- Learned `plt.savefig()` for saving plots at 300 DPI
+- Learned `plt.subplots()` for multiple plots in one figure
+- Created notebook: `12_matplotlib.ipynb`
+- Saved 5 plots to `results/` folder
+- Added markdown note about visualization limitations (sequential data, n=5)
+- Understood that plots demonstrate code, not scientific findings
 
 ## Next Steps
 - [x] NumPy Advanced (broadcasting, axis operations)
