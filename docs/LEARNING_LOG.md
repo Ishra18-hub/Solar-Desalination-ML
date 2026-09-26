@@ -19,7 +19,7 @@ Daily progress notes for my Python + ML learning journey.
 - [x] NumPy Basics
 - [x] NumPy Advanced
 - [x] Pandas GroupBy and EDA Start
-- [ ] 
+- [x] Matplotlib Basics
 
 ## 9 September 2026
 - Set up project folder and GitHub repository
